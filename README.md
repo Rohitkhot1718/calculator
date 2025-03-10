@@ -21,5 +21,5 @@ cd calculator
 - JavaScript (DOM Manipulation, Event Handling)
 
 ## Preview 🌟
-[Live Demo](#) (Add GitHub Pages link if hosted)
+[Live Demo](https://rohitkhot1718.github.io/calculator/)
 
