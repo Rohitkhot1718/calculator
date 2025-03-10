@@ -1,9 +1,4 @@
-Here's a simple `README.md` for your calculator project:  
-
----
-
-```md
-# Simple Calculator 🧮
+# Calculator 🧮
 
 A responsive and stylish calculator with dark mode, built using HTML, CSS, and JavaScript.
 
@@ -17,13 +12,9 @@ A responsive and stylish calculator with dark mode, built using HTML, CSS, and J
 ## Installation ⚡
 Clone the repository:
 ```sh
-git clone https://github.com/your-username/calculator.git
+git clone https://github.com/Rohitkhot1718/calculator.git
 cd calculator
 ```
-
-## Usage 🏗️
-Just open the `index.html` file in your browser. No setup required!  
-
 ## Technologies Used 🛠️
 - HTML
 - CSS (Flexbox & Grid)
